@@ -1,0 +1,5 @@
+c:\users\gnr_b_000\documents\visual studio 2012\Projects\Suma\Suma\bin\Suma.dll
+c:\users\gnr_b_000\documents\visual studio 2012\Projects\Suma\Suma\bin\Suma.pdb
+c:\users\gnr_b_000\documents\visual studio 2012\Projects\Suma\Suma\obj\Debug\Suma.csprojResolveAssemblyReference.cache
+c:\users\gnr_b_000\documents\visual studio 2012\Projects\Suma\Suma\obj\Debug\Suma.dll
+c:\users\gnr_b_000\documents\visual studio 2012\Projects\Suma\Suma\obj\Debug\Suma.pdb
