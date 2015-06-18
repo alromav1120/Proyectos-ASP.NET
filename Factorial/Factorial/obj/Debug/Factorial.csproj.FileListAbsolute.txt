@@ -1,0 +1,5 @@
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Factorial\Factorial\bin\Factorial.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Factorial\Factorial\bin\Factorial.pdb
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Factorial\Factorial\obj\Debug\Factorial.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Factorial\Factorial\obj\Debug\Factorial.pdb
