@@ -1,0 +1,4 @@
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\menu1\menu1\bin\menu1.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\menu1\menu1\bin\menu1.pdb
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\menu1\menu1\obj\Debug\menu1.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\menu1\menu1\obj\Debug\menu1.pdb
