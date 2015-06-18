@@ -1,0 +1,5 @@
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Calculadora-basica\Calculadora-basica\bin\Calculadora-basica.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Calculadora-basica\Calculadora-basica\bin\Calculadora-basica.pdb
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Calculadora-basica\Calculadora-basica\obj\Debug\Calculadora-basica.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Calculadora-basica\Calculadora-basica\obj\Debug\Calculadora-basica.pdb
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\Calculadora-basica\Calculadora-basica\obj\Debug\Calculadora-basica.csprojResolveAssemblyReference.cache
