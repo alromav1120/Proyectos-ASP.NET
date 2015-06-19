@@ -1,0 +1,5 @@
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\bordes\bordes\bin\bordes.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\bordes\bordes\bin\bordes.pdb
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\bordes\bordes\obj\Debug\bordes.csprojResolveAssemblyReference.cache
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\bordes\bordes\obj\Debug\bordes.dll
+C:\Users\gnr_b_000\Documents\Visual Studio 2012\Projects\ASP\Proyectos-ASP.NET\bordes\bordes\obj\Debug\bordes.pdb
